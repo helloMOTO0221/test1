@@ -3,6 +3,7 @@ session_start();
 require("dbconnect.php");
 //起床啦 歐哲
 //set the login mark to empty
+//edited by helloMOTO
 $_SESSION['uID'] = "";
 ?>
 <h1>Login Form</h1><hr />
