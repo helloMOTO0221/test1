@@ -1,7 +1,7 @@
 <?php
 session_start();
 require("dbconnect.php");
-
+//起床啦 歐哲
 //set the login mark to empty
 $_SESSION['uID'] = "";
 ?>
